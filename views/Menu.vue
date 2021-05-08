@@ -1,6 +1,6 @@
 <template>
-    <div style="height: 100%"> //div father 
-        //div child
+    <div style="height: 100%"> 
+       
         <v-toolbar
             dark
             prominent
